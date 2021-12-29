@@ -16,7 +16,7 @@ If you do find it helpful, plz gives me a star👍!
 The assignments and my scores for them are:
 
 - MIPS Assembler (100/100)
-- MPIS Simulator (100/100)
+- MIPS Simulator (100/100)
 - ALU (100/100)
 - pipeline CPU (with hazard handling) (110/110)
 <br>
