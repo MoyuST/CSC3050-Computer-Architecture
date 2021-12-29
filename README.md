@@ -3,7 +3,7 @@
 This is my favorite course during my university life at CUHK(SZ).
 This course kind of is the first CSC course introduces me to some real coding.
 <br>
-I still remembered how struggling it is to do the homework: I always started doing each assignment once it released and working on it for three whole weeks till the last sec.  
+I still remembered how struggling it is to do the homework: I always started doing each assignment once it released and worked on it for three whole weeks till the last sec.  
 But I always handled each of them just right before the DDL😂.
 <br>
 I really appreciated all the help I received from my friends at that time which really saved my life.
