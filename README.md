@@ -1,5 +1,7 @@
 # CSC3050 Computer Architecture
 
+[![Security Status](https://s.murphysec.com/badge/MoyuST/CSC3050-Computer-Architecture.svg)](https://www.murphysec.com/p/MoyuST/CSC3050-Computer-Architecture)
+
 This is my favorite course during my undergraduate university life at CUHK(SZ).
 This course kind of is the first CSC course introduces me to some real coding.
 <br>
